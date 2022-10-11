@@ -1,0 +1,15 @@
+/Users/mac/Projects/GPACalculator2/GPACalculator2/bin/Release/net6.0/GPACalculator2
+/Users/mac/Projects/GPACalculator2/GPACalculator2/bin/Release/net6.0/GPACalculator2.deps.json
+/Users/mac/Projects/GPACalculator2/GPACalculator2/bin/Release/net6.0/GPACalculator2.runtimeconfig.json
+/Users/mac/Projects/GPACalculator2/GPACalculator2/bin/Release/net6.0/GPACalculator2.dll
+/Users/mac/Projects/GPACalculator2/GPACalculator2/bin/Release/net6.0/GPACalculator2.pdb
+/Users/mac/Projects/GPACalculator2/GPACalculator2/obj/Release/net6.0/GPACalculator2.csproj.AssemblyReference.cache
+/Users/mac/Projects/GPACalculator2/GPACalculator2/obj/Release/net6.0/GPACalculator2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/GPACalculator2/GPACalculator2/obj/Release/net6.0/GPACalculator2.AssemblyInfoInputs.cache
+/Users/mac/Projects/GPACalculator2/GPACalculator2/obj/Release/net6.0/GPACalculator2.AssemblyInfo.cs
+/Users/mac/Projects/GPACalculator2/GPACalculator2/obj/Release/net6.0/GPACalculator2.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/GPACalculator2/GPACalculator2/obj/Release/net6.0/GPACalculator2.dll
+/Users/mac/Projects/GPACalculator2/GPACalculator2/obj/Release/net6.0/refint/GPACalculator2.dll
+/Users/mac/Projects/GPACalculator2/GPACalculator2/obj/Release/net6.0/GPACalculator2.pdb
+/Users/mac/Projects/GPACalculator2/GPACalculator2/obj/Release/net6.0/GPACalculator2.genruntimeconfig.cache
+/Users/mac/Projects/GPACalculator2/GPACalculator2/obj/Release/net6.0/ref/GPACalculator2.dll
